@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Vegan</string>
+    <string name="btnlogin">Inicia sesión</string>
+    <string name="btnregistrar">Regístrate</string>
+    <string name="saludo">Hola</string>
+    <string name="tipoUsuarios">¿Qué tipo de usuario eres?</string>
 </resources>
