@@ -4,4 +4,18 @@
     <string name="btnregistrar">Regístrate</string>
     <string name="saludo">Hola</string>
     <string name="tipoUsuarios">¿Qué tipo de usuario eres?</string>
+    <string name="title_activity_contenedor_instrucciones">ContenedorInstruccionesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="agricultores">
+        Los agricultores podrán tener acceso a la parte ventas y aprovechar las características para publicar sus productos con sus respectivos precios.
+        Tener interactividad con los otros tipos de usuarios y decidir quiénes podrían ser sus potenciales clientes.
+    </string>
+    <string name="comerciantes">
+        Los comerciantes son los encargados de hacer conexión con los clientes finales para ofrecerles los productos de dicho agricultor.
+    </string>
+    <string name="compradores">
+        Los usuarios finales son personas que entrarán al sistema para buscar productos orgánicos y realizar su respectiva compra ya sea por medio de un
+        proveedor o directamente con el agricultor, ya todo depende de lo necesitado.
+    </string>
 </resources>

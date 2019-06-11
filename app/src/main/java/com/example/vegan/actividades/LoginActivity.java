@@ -1,6 +1,7 @@
 package com.example.vegan.actividades;
 
 import android.support.annotation.NonNull;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Patterns;
@@ -28,6 +29,7 @@ public class LoginActivity extends AppCompatActivity {
         etClave = findViewById(R.id.etClave);
         // Initialize Firebase Auth
         mAuth = FirebaseAuth.getInstance();
+
     }
 
     //Iniciar sesión

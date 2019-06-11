@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorBlancoTransparente">#cccccc</color>
+    <color name="colorBlanco">#ffffff</color>
+    <color name="agricultor">#25485D</color>
+    <color name="comerciantes">#233945</color>
+    <color name="compradores">#25485D</color>
+    <color name="boton">#8FC83C</color>
 </resources>

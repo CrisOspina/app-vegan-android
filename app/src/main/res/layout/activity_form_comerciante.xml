@@ -226,7 +226,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="Registrar" />
+            android:background="@drawable/border_boton"
+            android:text="Registrar"
+            android:textSize="20dp"
+            android:onClick="registrarComerciante"/>
     </LinearLayout>
 
     <android.support.constraint.Guideline
