@@ -1,4 +1,4 @@
-# app-vegan-android
+# app proyecto vegan
 - Se esta utilizando Android y firebase para su implementación.
 - Diseño de app v01 con validación con firebase-auth e inserción a la firebase-database.
 
